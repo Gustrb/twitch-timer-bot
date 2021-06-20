@@ -1,0 +1,5 @@
+{
+    "channel": "Your channel name",
+    "password": "Your channel oauth token",
+    "allowed_users": ["The users that are going to be allowed to use the start and stop commands"]
+}
